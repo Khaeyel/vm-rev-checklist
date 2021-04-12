@@ -1,4 +1,4 @@
-#If your task is as undefined as "keep them running":
+If your task is as undefined as "keep them running":
 
     * Work with what your stakeholders want from you or the VM, or from what you can find on the VM
 
